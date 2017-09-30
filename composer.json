@@ -12,5 +12,8 @@
         "psr-4": {
             "wpscholar\\WordPress\\": ""
         }
+    },
+    "require": {
+        "wpscholar/wp-posts-query": "^1.0"
     }
 }
