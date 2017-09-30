@@ -1,13 +1,11 @@
 <?php
 
-namespace wpscholar\WordPress\Collections;
-
-use wpscholar\WordPress\PostsQuery;
+namespace wpscholar\WordPress;
 
 /**
  * Class PostCollectionBase
  *
- * @package wpscholar\WordPress\Collections
+ * @package wpscholar\WordPress
  */
 abstract class PostCollectionBase implements \Countable, \IteratorAggregate {
 
