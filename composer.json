@@ -14,6 +14,6 @@
         }
     },
     "require": {
-        "wpscholar/wp-posts-query": "^1.0"
+        "wpscholar/wp-posts-query": "^1.1"
     }
 }
